@@ -1,0 +1,117 @@
+.leftSide{
+    text-align: center;
+}
+.heading-left h1{
+    padding: 20px;
+}
+
+.heading-left .blue{
+    color: blue;
+}
+
+.heading-left .icons{
+    padding-right: 40px;
+}
+
+.heading-left .icons-alin{
+    padding-right: 20px;
+    padding-left: 30px;
+}
+
+.heading-left .scholar{
+    padding-left: 25px;
+}
+
+.heading-left h6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.right-side .top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+.right-side .top .down{
+    display: flex;
+}
+
+.right-side .boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid gray;
+    margin: 10px 25%;
+}
+
+.right-side .boxes .sub{
+  padding-right: 40%; 
+}
+
+.right-side .boxes .total{
+    padding-left: 50px;
+}
+
+.right-side .boxes .month{
+    font-size: 10px;
+}
+
+.right-side .boxes #green{
+    background-color:  green;
+}
+
+.right-side .fee .sub{
+    padding-right: 15%;
+}
+
+.right-side .fee .total{
+    padding-left: 15%;
+}
+
+.right-side .offer{
+  border: 2px solid red;
+  margin: 2px 25%;
+  background-color: rgb(245, 148, 148);
+}
+
+.right-side .offer .time{
+    padding-right: 45%;
+}
+
+.right-side .offer .total{
+    padding-left: 45%;
+    padding-bottom: 20%;
+}
+
+.right-side .gst .sub{
+    padding-right: 15%;
+}
+
+.right-side .gst .tut{
+    padding-right: 35%;
+}
+
+.right-side .gst .total{
+    padding-left: 15%;
+}
+
+.right-side .cancel{
+    border: 2px solid red;
+   margin-right: 5%;
+   width: 20%;
+   height: 50%;
+
+}
+
+.right-side .pay{
+    color: white;
+   margin-left: 5%;
+   background-color: green;
+   width: 20%;
+   height: 50%;
+}
+
